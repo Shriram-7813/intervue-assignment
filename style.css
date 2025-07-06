@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    behavior: smooth;
+}
+.flex{
+    display: flex;
+}
+.space-between{
+    justify-content: space-between;
+}
+.space-around{
+    justify-content: space-around;
+}
+.black{
+    color: black;
+}
+body{
+    font-family: "Sora", sans-serif;
+}
+ul li{
+    list-style: none;
+}
+nav ul li{
+    color: #5d5a5a;
+    margin-top: 10px;
+    margin-right: 22px;
+}
+.navbar{
+    margin-top: 15px;
+    padding: 0px 30px;
+
+}
+.margin-auto{
+    margin: auto;
+}
+
+.font-sora {
+    font-family: "Sora", sans-serif;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "intervue-assignment",
+  "version": "1.0.0",
+  "description": "Technical interview resources landing page using Tailwind CSS",
+  "scripts": {
+    "build:css": "tailwindcss -i ./input.css -o ./output.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+} 
